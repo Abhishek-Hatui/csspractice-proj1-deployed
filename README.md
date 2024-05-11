@@ -1,9 +1,12 @@
 # html and pure css website demo
 
-![loopstudios](images/loop1.PNG)
-![loopstudios](images/loop2.PNG)
-![loopstudios](images/loop3.PNG)
-![loopstudios](images/loop4.PNG)
+![nataurs](images/nato1.PNG)
+![nataurs](images/nato2.PNG)
+![nataurs](images/nato3.PNG)
+![nataurs](images/nato4.PNG)
+![nataurs](images/nato5.PNG)
+![nataurs](images/nato6.PNG)
+![nataurs](images/nato7.PNG)
 
 ## Demo Website
 
